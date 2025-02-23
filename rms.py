@@ -12,7 +12,7 @@ print(menu)
 print("welcome to our Mandal Resturant")
 print("Pizza: Rs 40/-\nPasta: Rs 50/-\nBurger: Rs 60/-\nSalad: Rs 70/-\nCoffee: Rs 80/-")
 
-order_total = 0
+order_total = 0/-
 item_1 = input("Enter the name of item which you want to order = ")
 
 if item_1 in menu:
@@ -31,6 +31,6 @@ if another_order == "Yes":
     else:
         print(f"Ordered item {item_2} is not available !")
 
-print(f"The total amount is {order_total}")
+print(f"The total amount is {order_total} /-")
 
 
