@@ -10,7 +10,7 @@ menu = {
 
 print(menu)
 print("welcome to our Mandal Resturant")
-print("Pizza: Rs40\nPasta: 50\nBurger: 60\nSalad: 70\nCoffee:80")
+print("Pizza: Rs 40/-\nPasta: Rs 50/-\nBurger: Rs 60/-\nSalad: Rs 70/-\nCoffee: Rs 80/-")
 
 order_total = 0
 item_1 = input("Enter the name of item which you want to order = ")
